@@ -126,9 +126,3 @@ capacity_bytes = capacity_bits / 8
 * Larger images provide higher capacity
 
 ---
-
-##  Author
-
-Student project for Data Security / Internet Security laboratory.
-
----
